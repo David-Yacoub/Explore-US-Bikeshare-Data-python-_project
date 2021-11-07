@@ -1,4 +1,4 @@
-# This is my very first code I spent alot of time and effort to finish this project
+# This is my very first code with python
 
 I used bikeshare2.py given by Udacity to fill the spaces at it and this is very helpful to me as a start to type code.
 I used fwd 1st project pdf fiel as a main guide for the steps but I didn't copied the code from it.
